@@ -1,3 +1,5 @@
+The raw MRI example data is avaiable at https://figshare.com/s/52e259868a6e7763a92c
+
 The image processing rely on a few public-free available softwares. You can download, install and acquire the manuals of these softwares using the following links:
 
 Lesion Segmentation Tool (version 3.0.0,  based on Matlab 2019a [9.6.0.1072779]; 64-bit [win64]; License Number: 968398): https://www.applied-statistics.de/lst.html. 
